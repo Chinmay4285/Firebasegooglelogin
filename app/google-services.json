@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "675629097024",
+    "firebase_url": "https://camo-81774.firebaseio.com",
+    "project_id": "camo-81774",
+    "storage_bucket": "camo-81774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675629097024:android:ff24fafe5feaa649",
+        "android_client_info": {
+          "package_name": "com.example.campcon.firegooglein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675629097024-g9tnjec9alog24hutgvvr84tbqbah123.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.campcon.firegooglein",
+            "certificate_hash": "3bf488ae75c08cf5277e9ab7928e3ed7368215e6"
+          }
+        },
+        {
+          "client_id": "675629097024-b7ibkmeoj8vj1npg51g8709snvjb3u8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAug3FWvd8vA7MWnfQzuhlMS6Do-rYne7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675629097024-b7ibkmeoj8vj1npg51g8709snvjb3u8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
